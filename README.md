@@ -1,2 +1,2 @@
-# DigitalInnovationOne-ProjetoInstagram
- Página Inicial do Instagram.
+# Digital Innovation One. Projeto página do Instagram.
+ Página Inicial do Instagram. HTML e CSS. 
